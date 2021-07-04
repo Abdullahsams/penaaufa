@@ -17,8 +17,8 @@ imaging:
   quality: 99
 
 params:
-  description: Hanya Berisikan Cerita Kehidupan Dari Seorang Ibu Rumah Tangga Sekaligus Ustadzah Yang Merasa Punya Passion Menulis Dengan Harapan Cerita Ini Akan Menginspirasi
-  homeMetaContent: Hanya Berisikan Cerita Kehidupan Dari Seorang Ibu Rumah Tangga Sekaligus Ustadzah Yang Merasa Punya Passion Menulis Dengan Harapan Cerita Ini Akan Menginspirasi
+  description: Hanya Berisikan Cerita Kehidupan Dari Seorang Ibu Rumah Tangga Sekaligus Ustadzah Yang Merasa Punya Passion Menulis Dengan Harapan Ceritanya Akan Menginspirasi
+  homeMetaContent: Hanya Berisikan Cerita Kehidupan Dari Seorang Ibu Rumah Tangga Sekaligus Ustadzah Yang Merasa Punya Passion Menulis Dengan Harapan Ceritanya Akan Menginspirasi
   footer: Build With [Hugo](https://gohugo.io/) By [Abdullahsams](https://abdullahsams.me)  
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
