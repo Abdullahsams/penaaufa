@@ -1,7 +1,7 @@
-baseURL: https://example.com
+baseURL: https://penaaufa.my.id
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: Pena Aufa
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
@@ -17,8 +17,8 @@ imaging:
   quality: 99
 
 params:
-  description: Hanya Berisikan Cerita Kehidupan Dari Seorang Ibu Rumah Tangga Sekaligus Ustadzah Yang Merasa Punya Passion Menulis Dengan Harapan Ceritanya Akan Menginspirasi
-  homeMetaContent: Hanya Berisikan Cerita Kehidupan Dari Seorang Ibu Rumah Tangga Sekaligus Ustadzah Yang Merasa Punya Passion Menulis Dengan Harapan Ceritanya Akan Menginspirasi
+  description: _Beautiful Minds, Inspire Others_
+  homeMetaContent: Tentang Coretan Kehidupan Pribadi dan Goresan Pena Cerita yang Ada di Sekitar. Diharapkan Bisa Menginspirasi Banyak Orang dan Menyebarkan Positive Vibes
   footer: Build With [Hugo](https://gohugo.io/) By [Abdullahsams](https://abdullahsams.me)  
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
@@ -27,8 +27,8 @@ params:
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: true
-  moveFooterToHeader: false
-  logoAlt: "An alternative text description of the logo"
+  moveFooterToHeader: false 
+  logoAlt: "Coretan Kehidupan Aufa"
   customCss:
     - css/custom_01.css
     - css/custom_02.css
@@ -38,21 +38,21 @@ params:
 
 menu:
   nav:
-    - name: Home
+    - name: Beranda
       url: /
       weight: 1
-    - name: Blog
-      url: /post/
+    - name: Siapa Aufa ? 
+      url: /tentang/
       weight: 2
+    - name: Coretan Kehidupan
+      url: /post/
+      weight: 3
     - name: Tags
       url: /tags/
-      weight: 3
-    - name: About
-      url: /about/
       weight: 4
-    - name: RSS
-      url: /index.xml
-      weight: 5
+    #- name: RSS
+      #url: /index.xml
+      #weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
